@@ -14,7 +14,7 @@ I received the B.Eng degree in Engineering from Guangxi Normal University in 201
  
 <br/>
 # Awards
-Outstanding University Graduates of Regular Institutes of Higher Education of Guangxi Zhuang Autonomous Region.
-Third Prize in 10th Chinese Collegiate Computing Competition.
-Third Prize in 11th Chinese Collegiate Computing Competition
+*Outstanding University Graduates of Regular Institutes of Higher Education of Guangxi Zhuang Autonomous Region.
+*Third Prize in 10th Chinese Collegiate Computing Competition.
+*Third Prize in 11th Chinese Collegiate Computing Competition.
 
